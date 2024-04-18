@@ -1,5 +1,6 @@
-### Hi
+### Welcome
 
+I am a current undergrad at UC Davis, aspiring to dive into ML/AI. 
 
 
 <!--
