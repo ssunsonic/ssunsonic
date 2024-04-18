@@ -1,8 +1,8 @@
-### Welcome
+### Welcome 🌍!
 
-I am a current undergrad at UC Davis studying Statistics and Economics. I have developed a strong foundation in statistical modeling, ML theory, and certains branches of mathematics through courses, projects, and certifications. 
+I am a current undergrad at UC Davis studying Statistics and Economics. I have developed a strong foundation in statistical modeling 🔢, ML theory, and certains branches of mathematics through courses, projects, and certifications. 
 
-In my free time you can find me at the 🏖 or on the pitch. 
+In my free time you can find me at the 🏖 or on the pitch 💫. 
 
 <!--
 **ssunsonic/ssunsonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
