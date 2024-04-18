@@ -1,6 +1,6 @@
 ### Welcome 🌍!
 
-I am a current undergrad at UC Davis studying Statistics and Economics. I have developed a strong foundation in statistical modeling 🔢, ML theory, and certains branches of mathematics through courses, projects, and certifications. Topics that pique my current interests include: NLP (LLMs, Chatbots) and Neural Networks
+I am a current undergrad at UC Davis studying Statistics and Economics. I have developed a strong foundation in statistical modeling 🔢, ML theory, and certains branches of mathematics through courses, projects, and certifications. Topics that I am currently interested in are: NLP (LLMs, Chatbots) and Neural Networks
 
 In my free time you can find me at the 🏖 or on the pitch 💫. 
 
