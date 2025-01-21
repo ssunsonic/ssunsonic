@@ -1,8 +1,12 @@
 ### Welcome 🌍!
 
-I am a current undergrad at UC Davis studying Statistics and Economics. I have developed a strong foundation in statistical modeling 🔢, ML theory, and certain branches of mathematics through courses, projects, and professional experience. Topics that I am currently interested in include LLMs, Data Visualization, and NLP.
+I am an undergrad at UC Davis studying Statistics and Economics. I have developed a solid foundation in statistical modeling 🔢, ML theory, and certain branches of mathematics through courses, projects, and professional experience. Currently, I work as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. Topics that I am interested in and will explore further include LLMs, Data Visualization, and NLP.
+
+I'm an aspiring Data Scientist/MLE, with hopes of blending my academic background and future work experience into business value. My goal as of late is to become a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition.
 
 In my free time you can find me at the 🏖 or on the pitch 💫. 
+
+[link]:https://datalab.ucdavis.edu/
 
 <!--
 **ssunsonic/ssunsonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
