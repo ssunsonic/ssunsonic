@@ -7,6 +7,7 @@ I'm an aspiring Data Scientist/MLE, with hopes of blending my academic backgroun
 In my free time you can find me at the 🏖 or on the pitch 💫. 
 
 [link]:https://datalab.ucdavis.edu/
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ssunsonic)](https://git.io/streak-stats)
 
 <!--
 **ssunsonic/ssunsonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
