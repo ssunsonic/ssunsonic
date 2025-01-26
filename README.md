@@ -4,7 +4,7 @@ I am a senior at UC Davis studying Statistics and Economics. I have developed a 
 
 I'm an aspiring Data Scientist/MLE, with hopes of blending my academic background and future work experience into business value. My goal as of late is to become a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition. 
 
-I am a naturally curious person with a hunger for wisdom and knowledge, and always appreciate an intellectually stimulating conversation. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with affinity for delicious food. 
+I am a naturally curious person with a hunger for wisdom and knowledge, and always appreciate an intellectually stimulating conversation. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. 
 
 [link]:https://datalab.ucdavis.edu/
 
