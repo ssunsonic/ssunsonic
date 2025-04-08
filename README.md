@@ -1,6 +1,6 @@
 ### Welcome 🌍!
 
-I work as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. An aspiring Data Scientist/MLE, wanting to blend my academic and industrial experiences into something of meaningful and creative value. I'm inspired by those that chase relentless creative pursuits. 
+I work as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. An aspiring Data Scientist/MLE, wanting to blend my academic and industrial experiences into something of meaningful value. I'm inspired by those that chase relentless creative pursuits. 
 
 My goal as of late is to become a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition. To showcase skills outside of my professional experience, I'm solving cases through the [8 Week SQL Challenge][sql] and plan on developing cool and intuitive visuals in form of dashboards, reports, or charts.
 
