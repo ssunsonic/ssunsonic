@@ -1,10 +1,10 @@
 ### Welcome 🌍!
 
-I am a senior at UC Davis studying Statistics and Economics. I have developed a solid foundation in statistical modeling 🔢, ML theory, and certain branches of mathematics through courses, projects, and professional experience. Currently, I work as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. Topics that I am currently interested in and will explore further include LLMs, Data Visualization, and Computer Vision. 
+I work as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. An aspiring Data Scientist/MLE, wanting to blend my academic and industrial experiences into something of meaningful and creative value. I'm inspired by those that chase relentless creative pursuits. 
 
-I'm an aspiring Data Scientist/MLE, with hopes of blending my academic background and future work experience into business value. My goal as of late is to become a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition. To showcase skills outside of my professional experience, I'm solving cases through the [8 Week SQL Challenge][sql] and plan on developing cool and intuitive visuals in form of dashboards, reports, or charts.
+My goal as of late is to become a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition. To showcase skills outside of my professional experience, I'm solving cases through the [8 Week SQL Challenge][sql] and plan on developing cool and intuitive visuals in form of dashboards, reports, or charts.
 
-I am a naturally curious person with a hunger for wisdom and knowledge, and always appreciate an intellectually stimulating conversation. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. 
+I'm currently very interested in computer vision + data visualization. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. 
 
 [link]:https://datalab.ucdavis.edu/
 [sql]:https://8weeksqlchallenge.com/
