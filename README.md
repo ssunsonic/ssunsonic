@@ -4,7 +4,7 @@ I work as a Statistical Analyst for UC Davis [Datalab][link], performing various
 
 My career plan is to work as a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition. To showcase skills outside of my professional experience, I'm solving cases through the [8 Week SQL Challenge][sql] and plan on developing cool and intuitive visuals in form of dashboards, reports, or charts.
 
-I'm currently very interested in computer vision + data visualization. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. I'm inspired by those that chase relentless creative pursuits and please feel free to reach out!
+I'm currently very interested in computer vision + data visualization. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. I'm inspired by those that chase relentless creative pursuits and am always open for a chat.
 
 [link]:https://datalab.ucdavis.edu/
 [sql]:https://8weeksqlchallenge.com/
