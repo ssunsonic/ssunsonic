@@ -2,11 +2,11 @@
 
 ### Welcome 🌍!
 
-An aspiring Data Scientist/MLE, with goals of blending my academic and industrial experiences into something of meaningful value. 
+Aspiring Data Scientist, with goals of blending my academic and industrial experiences into value.
 
-Previously worked as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as data acquisition, training detection models, and leveraging new technologies. 
+Previously worked as a Statistical Analyst for UC Davis [Datalab][link], performing various tasks such as training detection models, web-based scraping, and leveraging new technologies. 
 
-My career plan is to work as a Data Analyst for a few years, understand the in and outs of how data-driven processes create valuable and productive cultures, and then transition into a more software/managerial oriented position. I'm currently very interested in computer vision + data visualization. When I'm not here, you can find me at the 🏖 , on the pitch 💫, playing casual guitar, or anywhere with an affinity for delicious food. I'm inspired by those that chase relentless creative pursuits and am always open for a chat.
+Currrently working as a Business/Data Analyst, owning E2E executive reporting, consulting, and supporting cross-functional teams. I'm very interested in computer vision + data visualization. When I'm not here, you can find me at the 🏖 , on the pitch 💫, or somewhere not at home. I'm inspired by every art form & go-getters. 
 
 Also check out my [site][website]! 
 
